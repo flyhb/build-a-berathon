@@ -18,5 +18,6 @@ Hummingbird is a peer-to-peer (P2P) infrastructure for autonomous drone delivery
 10. Approve the HB token spending in MetaMask.
 11. Approve the delivery in MetaMask (requires HB tokens in your wallet).
 12. Check the drone logs to monitor the delivery.
+13. Once the delivery is completed, check the HB payment in your drone owner's account.
 
 > Note: the web app currently only updates the drone's status and location based on on-chain proofs of liveness, so it follows the simulator heartbeat frequency. This will be improved in the next release.
