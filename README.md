@@ -12,7 +12,7 @@ Hummingbird is a peer-to-peer (P2P) infrastructure for autonomous drone delivery
 4. Follow the instructions to run a drone station simulator [here](https://github.com/flyhb/delivery-drone-simulator#delivery-drone-station-simulator).
 5. Optionally, configure the drone station GPS location in `device_config.json`. **Note:** Ensure you send a few BERA to the device address; 0.2 BERA should suffice for one hour of operation.
 6. Open https://test.flyhummingbird.io, connect your wallet, and locate your drone on the map.
-7. Wait a couple of minutes to mine some HB tokens.
+7. Wait a couple of minutes to mine some HB tokens. Check your drone ooeration and HB balance in the miner's dashboard. Claim the rewards there.
 8. Create a new delivery request (ensure it's in the area of the drone; the whole trip should not be longer than the max drone range set in `drone_config.json`).
 9. Wait for the drone to **propose** a price, then **accept** the proposal.
 10. Approve the HB token spending in MetaMask.
